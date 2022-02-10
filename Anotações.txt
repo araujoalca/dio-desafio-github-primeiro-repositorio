@@ -1,0 +1,12 @@
+Link para download do GIT: https://git-scm.com/downloads
+----
+
+GIT E GITHUB
+¨¨¨¨¨¨¨¨¨¨¨¨¨
+Duas tecnologias diferentes, mas complementares, para:
+
+1.	Controle de Versão (versionamento)
+2.	Armazenamento em nuvem (GitHub)
+3.	Trabalho em equipe (colaborativo)
+4.	Melhoramento de código (colaborativo)
+5.	Reconhecimento (visibilidade)
